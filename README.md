@@ -5,11 +5,11 @@
 
 <!--- name p --->
 
-<p>Hi, I’m Cunningham! (<a href="https://github.com/cworth27753">@cworth27753</a>).</p>
+<p>Hi, I’m Cunningham! (<a href="https://github.com/cunninghamworth">@cunninghamworth</a>).</p>
 
 <!--- interests and learning p --->
 
-<p>I’m interested in web and app development. I’m currently learning HTML, CSS, JavaScript, SQL, and Python. 
+<p>I’m interested in web and app development. I’m currently learning HTML, CSS, JavaScript, SQL, PHP, and Python. 
 <br>
 I’m looking to collaborate on almost anything. I'm looking to learn as much as I can!</p>
 
